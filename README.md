@@ -1,2 +1,0 @@
-# alghoshblog
-My personal blog
