@@ -29,7 +29,7 @@ twitter_username: AlghoshM
 github_username:  MohamadAlghish93
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
